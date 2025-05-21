@@ -129,3 +129,88 @@ Functionality won't change, but the *implementation* might.
 
 ***Video 2 Content***
 
+## Six UI principles for App Studio
+*"Walk through this order as much as you can"*
+
+1. **Add value fast**
+	 - It's generally fast and easy to prototype and make changes in App Studio
+2. **Reduce components**
+	- App Studio components are modular - they can be reused, so you don't need to constantly make new components
+3. **Contextualizing user needs**
+	- When building in PEGA, always think about designing for the end user
+	- There's some nuance for who the "user" is, but think of who's using the tool
+4. **Use Defaults**
+	- Reiterating on being able to reuse components - they can be customized
+5. **Provide tools and terms**
+	 - PEGA reuses a lot of terms?
+6. **UX design**
+	- Decide on how components should look, how the flow works, etc.
+
+## Navigation
+
+![](attachments/Pasted%20image%2020250521172809.png)
+
+PEGA has a navigation bar on the right-hand side, where there's options for:
+ - **Overview** - Provides a summary of the application
+ - **Case types (Processes)** - Links to each of the case types/processes associated with the app
+ - **Data** - What data the app is using
+ - **Channels** - Where the users are working from
+
+## Application Development in App Studio
+
+![](attachments/Pasted%20image%2020250521173012.png)
+
+Think of two stages - **Prepare** and **Build**
+
+### Prepare
+ - Start with **Mockups** of the system, which can be made almost entirely in App Studio
+ - You can get started with Dev Studio if you have external data - but most of the work will be in App Studio
+
+### Build 
+*There's two different options:*
+
+**Option 1 - Fusion Teams**
+*A combination of system architects and citizen developers*
+
+**Option 2 - Business and IT Teams**
+*This'll be how we'll operate!*
+- **IT Teams** - Aka the Software Architects - *20% App Studio, 80% Dev Studio*
+- **Citizen Developers** - Aka the Business Team - *80% App Studio, 20% Dev Studio*
+
+*Note that **App Studio is NOT a substitute for Dev Studio** and **Dev Studio is NOT a supped-up App Studio** - they have different, complimentary features that support one another*
+
+## Application Development in App Studio
+App Studio has a few other benefits:
+ - There are watchers in App Studio and guard rails
+	 - They give you warnings for bad practice
+		 - Can suggest test cases
+		 - **Basically built-in help features**
+
+## PEGA's Center-Out Business Architecture
+**App Studio UX**
+A simpler layout
+
+**Dev Studio UX**
+Has more options for what you can do, allows for advanced configurations
+
+### Top-down vs Bottom-up
+**Top-down**
+ - **Start development from the presentation layer**
+ - Higher-level vision of the application.
+ - Might end up having to implement logic multiple times if requirements change
+
+**Bottom-up**
+ - **Start development from the data access layer**
+ - E.g. start by setting up data tables, making modular data elements, etc.
+ - Becomes difficult handling data from multiple data sources
+
+*There's tradeoff to each option.*
+
+## Center-Out Approach
+*PEGA has it's own approach which will attempt to fix the downsides of these two approaches.*
+
+"Instead of starting at the top or bottom, we'll work in the middle - **Start with the Business Logic.**"
+ - Manage intelligence centrally - bring the stakeholders as close to the process as possible
+ - Focus on outcomes
+ - Compartmentalizes the frontend and backend - you can swap data sources, for example, and it should be easy to do
+
