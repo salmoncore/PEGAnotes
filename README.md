@@ -1,7 +1,8 @@
 # PEGAnotes
 
-Notes for SkillStorm's 2025 PEGA Fundamentals training course
+Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 [RoadMap for PEGA TFBD](https://stormsurge.skillstorm.com/courses/4113/pages/road-map)
+[PEGA Academy System Architect Mission](https://academy.pega.com/mission/system-architect/v7)
 
 ---
 ## Project Management
@@ -17,6 +18,7 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course
 ### Low Code Basics
 1. [Low Code Defined](Systems%20Architect/Low%20Code%20Defined.md) (2 videos, ~1hr40min)
 2. [Microjourneys](Systems%20Architect/Microjourneys.md) (1 video, ~1hr)
+	 - [Defining a customer Microjourney](Systems%20Architect/Defining%20a%20customer%20Microjourney.md)
 ### Case Management
 1. [Case Life Cycle & Types](Case%20Management/Case%20Life%20Cycle%20&%20Types.md) (3 videos, ~2hr30min)
 2. [Data in PEGA](Case%20Management/Data%20in%20PEGA.md) (4 videos, ~3hr45min)
