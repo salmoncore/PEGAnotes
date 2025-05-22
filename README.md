@@ -6,12 +6,11 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course
 ---
 ## Project Management
 ### Course Introduction
-[Course Introduction](Project%20Management/Course%20Introduction.md)
-
+1. [Course Introduction](Project%20Management/Course%20Introduction.md)
 ### Core Concepts
-[Ways of Working](Project%20Management/Ways%20of%20Working.md)
+1. [Ways of Working](Project%20Management/Ways%20of%20Working.md)
 
-*Skipping the rest - it's not necessary for the certification!*
+*Skipping the rest - it's not necessary for the certification.*
 
 ---
 ## Systems Architect
