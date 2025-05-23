@@ -11,6 +11,8 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 2. Pega Constellation design system
 3. [Defining a customer Microjourney](SkillStorm%20Course/Systems%20Architect/Defining%20a%20customer%20Microjourney.md)
 4. [The Data Model](PEGA%20Academy/Low-Code%20App%20Builder/The%20Data%20Model.md)
+5. [Capturing and Presenting Data](PEGA%20Academy/Low-Code%20App%20Builder/Capturing%20and%20Presenting%20Data.md)
+6. [Full Case Views](PEGA%20Academy/Low-Code%20App%20Builder/Full%20Case%20Views.md)
 
 ---
 # SkillStorm Course Notes
