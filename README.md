@@ -5,23 +5,29 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 [PEGA Academy System Architect Mission](https://academy.pega.com/mission/system-architect/v7)
 
 ---
-## Project Management
-### Course Introduction
-1. [Course Introduction](Project%20Management/Course%20Introduction.md)
-### Core Concepts
-1. [Ways of Working](Project%20Management/Ways%20of%20Working.md)
-
-*Skipping the rest - it's not necessary for the certification.*
+# PEGA Academy Notes
+## Low-Code App Builder
+1. Low Code  Defined
+2. Pega Constellation design system
+3. [Defining a customer Microjourney](SkillStorm%20Course/Systems%20Architect/Defining%20a%20customer%20Microjourney.md)
+4. [The Data Model](PEGA%20Academy/Low-Code%20App%20Builder/The%20Data%20Model.md)
 
 ---
+# SkillStorm Course Notes
+## Project Management
+### Course Introduction
+1. [Course Introduction](SkillStorm%20Course/Project%20Management/Course%20Introduction.md)
+### Core Concepts
+1. [Ways of Working](SkillStorm%20Course/Project%20Management/Ways%20of%20Working.md)
+
+*Skipping the rest - it's not necessary for the certification.*
 ## Systems Architect
 ### Low Code Basics
-1. [Low Code Defined](Systems%20Architect/Low%20Code%20Defined.md) (2 videos, ~1hr40min)
-2. [Microjourneys](Systems%20Architect/Microjourneys.md) (1 video, ~1hr)
-	 - [Defining a customer Microjourney](Systems%20Architect/Defining%20a%20customer%20Microjourney.md)
+1. [Low Code Defined](SkillStorm%20Course/Systems%20Architect/Low%20Code%20Defined.md) (2 videos, ~1hr40min)
+2. [Microjourneys](SkillStorm%20Course/Systems%20Architect/Microjourneys.md) (1 video, ~1hr)
 ### Case Management
-1. [Case Life Cycle & Types](Case%20Management/Case%20Life%20Cycle%20&%20Types.md) (3 videos, ~2hr30min)
-2. [Data in PEGA](Case%20Management/Data%20in%20PEGA.md) (4 videos, ~3hr45min)
+1. [Case Life Cycle & Types](SkillStorm%20Course/Case%20Management/Case%20Life%20Cycle%20&%20Types.md) (3 videos, ~2hr30min)
+2. [Data in PEGA](SkillStorm%20Course/Case%20Management/Data%20in%20PEGA.md) (4 videos, ~3hr45min)
 ### User Guidance
 1. [User Guidance](User%20Guidance/User%20Guidance.md) (2 videos, ~2hr30min)
 2. [Completing Work On-Time](User%20Guidance/Completing%20Work%20On-Time.md) (2 videos, ~2hrs)
@@ -35,4 +41,5 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 10. [Application Data with Insights ](User%20Guidance/Application%20Data%20with%20Insights.md) (1 video, ~30mins)
 
 *Total video time: **~21hr15min***
-### Precision Exam Notes
+
+---
