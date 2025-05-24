@@ -48,5 +48,3 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 *Total video time: **~21hr15min***
 
 ---
-
-test
