@@ -16,7 +16,8 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 7. [Creating a Data Relationship](PEGA%20Academy/Low-Code%20App%20Builder/Creating%20a%20Data%20Relationship.md)
 8. [User Guidance](PEGA%20Academy/Low-Code%20App%20Builder/User%20Guidance.md)
 9. [Designing an Approval Process](PEGA%20Academy/Low-Code%20App%20Builder/Designing%20an%20Approval%20Process.md)
-10. 
+10. [Completing Work On-Time](PEGA%20Academy/Low-Code%20App%20Builder/Completing%20Work%20On-Time.md)
+11. 
 
 ---
 # SkillStorm Course Notes
