@@ -22,6 +22,7 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 ## LCAB Extended
 1. [Application Development Management](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Application%20Development%20Management.md)
 2. [Sizing a Pega Platform Project](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Sizing%20a%20Pega%20Platform%20Project.md)
+3. [Adding Optional Actions to a Workflow](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Adding%20Optional%20Actions%20to%20a%20Workflow.md)
 
 ---
 # SkillStorm Course Notes
