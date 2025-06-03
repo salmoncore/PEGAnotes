@@ -17,7 +17,11 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 8. [User Guidance](PEGA%20Academy/Low-Code%20App%20Builder/User%20Guidance.md)
 9. [Designing an Approval Process](PEGA%20Academy/Low-Code%20App%20Builder/Designing%20an%20Approval%20Process.md)
 10. [Completing Work On-Time](PEGA%20Academy/Low-Code%20App%20Builder/Completing%20Work%20On-Time.md)
-11. 
+11. [Exam Notes](PEGA%20Academy/Low-Code%20App%20Builder/Exam%20Notes.md)
+
+## LCAB Extended
+1. [Application Development Management](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Application%20Development%20Management.md)
+2. 
 
 ---
 # SkillStorm Course Notes
