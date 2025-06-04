@@ -23,6 +23,14 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 1. [Application Development Management](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Application%20Development%20Management.md)
 2. [Sizing a Pega Platform Project](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Sizing%20a%20Pega%20Platform%20Project.md)
 3. [Adding Optional Actions to a Workflow](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Adding%20Optional%20Actions%20to%20a%20Workflow.md)
+4. [Automating Workflow Decisions](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Automating%20Workflow%20Decisions.md)
+5. [Automation Shapes in the Case Life Cycle](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Automation%20Shapes%20in%20the%20Case%20Life%20Cycle.md)
+6. [Creating a Child Case](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Creating%20a%20Child%20Case.md)
+7. [Identifying Duplicate Cases](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Identifying%20Duplicate%20Cases.md)
+8. [Skipping a Process or a Stage](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Skipping%20a%20Process%20or%20a%20Stage.md)
+9. [Pausing and Resuming Case Processing](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Pausing%20and%20Resuming%20Case%20Processing.md)
+10. [Validating Data against Business Logic](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Validating%20Data%20against%20Business%20Logic.md)
+11. [Application Data Manipulation](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Application%20Data%20Manipulation.md)
 
 ---
 # SkillStorm Course Notes
