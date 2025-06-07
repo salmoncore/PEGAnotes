@@ -31,6 +31,11 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 9. [Pausing and Resuming Case Processing](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Pausing%20and%20Resuming%20Case%20Processing.md)
 10. [Validating Data against Business Logic](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Validating%20Data%20against%20Business%20Logic.md)
 11. [Application Data Manipulation](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Application%20Data%20Manipulation.md)
+12. [Exploring Application Data with Insights](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Exploring%20Application%20Data%20with%20Insights.md)
+13. [Configuring a Form View](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20a%20Form%20View.md)
+14. [Configuring UI Elements](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20UI%20Elements.md)
+15. [Configuring Portal Content](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20Portal%20Content.md)
+16. [Configuring a Dashboard](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20a%20Dashboard.md)
 
 ---
 # SkillStorm Course Notes
