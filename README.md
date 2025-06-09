@@ -36,6 +36,10 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 14. [Configuring UI Elements](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20UI%20Elements.md)
 15. [Configuring Portal Content](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20Portal%20Content.md)
 16. [Configuring a Dashboard](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Configuring%20a%20Dashboard.md)
+17. [Calculating Fields using Decision Tables](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Calculating%20Fields%20using%20Decision%20Tables.md)
+18. [Inviting Users to an Application](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Inviting%20Users%20to%20an%20Application.md)
+19. [Collaboration with Users](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Collaboration%20with%20Users.md)
+20. [LCABE Mission Test](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/LCABE%20Mission%20Test.md)
 
 ---
 # SkillStorm Course Notes
