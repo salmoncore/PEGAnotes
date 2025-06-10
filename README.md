@@ -41,6 +41,15 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 19. [Collaboration with Users](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/Collaboration%20with%20Users.md)
 20. [LCABE Mission Test](PEGA%20Academy/Low-Code%20App%20Builder%20Extended/LCABE%20Mission%20Test.md)
 
+### System Architect Content pt. 1
+1. [Dev Studio Overview](PEGA%20Academy/Dev%20Studio%20Overview.md)
+2. [Creating a Rule](PEGA%20Academy/Creating%20a%20Rule.md)
+
+## Data and Integration Essentials
+1. [Application Data Manipulation in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Application%20Data%20Manipulation%20in%20Dev%20Studio.md)
+2. [Creating and Setting Application Variables](PEGA%20Academy/Data%20and%20Integration%20Essentials/Creating%20and%20Setting%20Application%20Variables.md)
+3. [Validating Data in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Validating%20Data%20in%20Dev%20Studio.md)
+
 ---
 # SkillStorm Course Notes
 ## Project Management
