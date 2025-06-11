@@ -49,6 +49,7 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 1. [Application Data Manipulation in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Application%20Data%20Manipulation%20in%20Dev%20Studio.md)
 2. [Creating and Setting Application Variables](PEGA%20Academy/Data%20and%20Integration%20Essentials/Creating%20and%20Setting%20Application%20Variables.md)
 3. [Validating Data in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Validating%20Data%20in%20Dev%20Studio.md)
+4. [Accessing Sourced Data in a Case](PEGA%20Academy/Data%20and%20Integration%20Essentials/Accessing%20Sourced%20Data%20in%20a%20Case.md)
 
 ---
 # SkillStorm Course Notes
