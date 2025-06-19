@@ -51,6 +51,21 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 3. [Validating Data in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Validating%20Data%20in%20Dev%20Studio.md)
 4. [Accessing Sourced Data in a Case](PEGA%20Academy/Data%20and%20Integration%20Essentials/Accessing%20Sourced%20Data%20in%20a%20Case.md)
 5. [Saving Data to a System of Record](PEGA%20Academy/Data%20and%20Integration%20Essentials/Saving%20Data%20to%20a%20System%20of%20Record.md)
+6. [Exam Notes](PEGA%20Academy/Data%20and%20Integration%20Essentials/Exam%20Notes.md)
+
+## System Architect Content pt. 2
+1. [Escalating Late Work](PEGA%20Academy/Escalating%20Late%20Work.md)
+2. [Decision Tables and Trees](PEGA%20Academy/Decision%20Tables%20and%20Trees.md)
+3. [Cascading Approvals](PEGA%20Academy/Cascading%20Approvals.md)
+4. [Creating and Managing Teams of Users](PEGA%20Academy/Creating%20and%20Managing%20Teams%20of%20Users.md)
+5. [Designing a Mobile App Experience](PEGA%20Academy/Designing%20a%20Mobile%20App%20Experience.md)
+6. [Localizing Application Content](PEGA%20Academy/Localizing%20Application%20Content.md)
+7. [Enabling Accessibility Features in Applications](PEGA%20Academy/Enabling%20Accessibility%20Features%20in%20Applications.md)
+8. [Application Security](PEGA%20Academy/Application%20Security.md)
+9. [Managing Application Access](PEGA%20Academy/Managing%20Application%20Access.md)
+10. [Debugging Application Errors](PEGA%20Academy/Debugging%20Application%20Errors.md)
+11. [Testing Your Application](PEGA%20Academy/Testing%20Your%20Application.md)
+12. [Exam Notes](PEGA%20Academy/Exam%20Notes.md)
 
 ---
 # SkillStorm Course Notes
