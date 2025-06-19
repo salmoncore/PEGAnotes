@@ -50,6 +50,7 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 2. [Creating and Setting Application Variables](PEGA%20Academy/Data%20and%20Integration%20Essentials/Creating%20and%20Setting%20Application%20Variables.md)
 3. [Validating Data in Dev Studio](PEGA%20Academy/Data%20and%20Integration%20Essentials/Validating%20Data%20in%20Dev%20Studio.md)
 4. [Accessing Sourced Data in a Case](PEGA%20Academy/Data%20and%20Integration%20Essentials/Accessing%20Sourced%20Data%20in%20a%20Case.md)
+5. [Saving Data to a System of Record](PEGA%20Academy/Data%20and%20Integration%20Essentials/Saving%20Data%20to%20a%20System%20of%20Record.md)
 
 ---
 # SkillStorm Course Notes
