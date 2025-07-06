@@ -88,7 +88,7 @@ Notes for SkillStorm's 2025 PEGA Fundamentals training course and PEGA Academy
 2. [Completing Work On-Time](User%20Guidance/Completing%20Work%20On-Time.md) (2 videos, ~2hrs)
 3. [Optional Actions](User%20Guidance/Optional%20Actions.md) (1 video, ~15mins)
 4. [Application Development Management](User%20Guidance/Application%20Development%20Management.md) (2 videos, ~1hr45min)
-5. [Controlling and Automating Case Workflows](User%20Guidance/Controlling%20and%20Automating%20Case%20Workflows.md) (1 video, ~1hr10min)
+5. [Processes and Process Flows](User%20Guidance/Processes%20and%20Process%20Flows.md) (1 video, ~1hr10min)
 6. [Decision Shapes and Process Flows](User%20Guidance/Decision%20Shapes%20and%20Process%20Flows.md) (1 video, ~50mins)
 7. [Creating Case Relationships](User%20Guidance/Creating%20Case%20Relationships.md) (1 video, ~1hr20min)
 8. [Skipping Stages and Processes](User%20Guidance/Skipping%20Stages%20and%20Processes.md) (1 video, ~30min)

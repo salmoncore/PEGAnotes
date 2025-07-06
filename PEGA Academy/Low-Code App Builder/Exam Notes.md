@@ -1,5 +1,5 @@
 ![](attachments/Pasted%20image%2020250529161123.png)![](attachments/Pasted%20image%2020250529161203.png)
-![](attachments/Pasted%20image%2020250529161235.png)![](attachments/Pasted%20image%2020250529161304.png)
+![](attachments/Pasted%20image%2020250529161304.png)
 ![](attachments/Pasted%20image%2020250529161332.png)
 ![](attachments/Pasted%20image%2020250529161351.png)
 ![](attachments/Pasted%20image%2020250529161414.png)

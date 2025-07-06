@@ -85,7 +85,7 @@ Note that **Decision Trees** and **Decision Tables** can't be used interchangeab
  - Refer to the image of the **Decision table** above
 
 ![](attachments/Pasted%20image%2020250620143804.png)
- - Read carefully!
+ - Read carefully! *Just now noticing the image is probably wrong - whoops!*
 
 ![](attachments/Pasted%20image%2020250620144031.png)
  - Remember - **Conflicts** check **unreachable conditions**, **completeness** checks **missing conditions**. 
